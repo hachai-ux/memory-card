@@ -1,0 +1,99 @@
+[
+    {
+        "id": 1,
+        "clicked" : false,
+        "name": "Beelzemon Blade Mode B",
+        "image": "./images/Beelzemon_Blast_Mode_b.jpeg"
+      },
+      {
+        "id": 2,
+        "clicked" : false,
+        "name": "Beelzemon Blast Mode",
+        "image": "./images/Beelzemon_Blast_Mode.jpeg"
+      },
+      {
+        "id": 3,
+        "clicked" : false,
+        "name": "Beelzemon Heroes",
+        "image": "./images/Beelzemon_Heroes%21.jpeg"
+      },
+      {
+        "id": 4,
+        "clicked" : false,
+        "name": "Beelzemon",
+        "image": "./images/Beelzemon.jpeg"
+      },
+      {
+        "id": 5,
+        "clicked" : false,
+        "name": "Beelzemon 3",
+        "image": "./images/Beelzemon3.jpeg"
+      },
+      {
+        "id": 6,
+        "clicked" : false,
+        "name": "Beelzemon 4",
+        "image": "./images/Beelzemon4.jpeg"
+      },
+      {
+        "id": 7,
+        "clicked" : false,
+        "name": "Beelzemon Behemoth 2",
+        "image": "./images/Behemoth2.jpeg"
+      },
+      {
+        "id": 8,
+        "clicked" : false,
+        "name": "Beelzemon X",
+        "image": "./images/Beelzemon_X.jpeg"
+      },
+      {
+        "id": 9,
+        "clicked" : false,
+        "name": "Beelzemon 2",
+        "image": "./images/Beelzemon2.png"
+      },
+      {
+        "id": 10,
+        "clicked" : false,
+        "name": "Beelzemon Re",
+        "image": "./images/Beelzemon_re.jpeg"
+      },
+      {
+        "id": 11,
+        "clicked" : false,
+        "name": "Beelzemon Collectors",
+        "image": "./images/Beelzemon_collectors.png"
+      },
+      {
+        "id": 12,
+        "clicked" : false,
+        "name": "Beelzemon Collectors 2",
+        "image": "./images/Beelzemon_collectors2.png"
+      },
+      {
+        "id": 13,
+        "clicked" : false,
+        "name": "Beelzemon Collectors 3",
+        "image": "./images/Beelzemon_collectors3.png"
+      },
+      {
+        "id": 14,
+        "clicked" : false,
+        "name": "Beelzemon vs Avengekidmon",
+        "image": "./images/Beelzemon_vs_Avengekidmon_Heroes!.jpeg"
+      },
+      {
+        "id": 15,
+        "clicked" : false,
+        "name": "Bellestarrmon",
+        "image": "./images/Bellestarrmon.jpeg"
+      },
+      {
+        "id": 16,
+        "clicked" : false,
+        "name": "Beelzemon 2010",
+        "image": "./images/Beelzemon_2010.jpeg"
+      }
+
+]
