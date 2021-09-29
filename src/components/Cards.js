@@ -1,5 +1,7 @@
 import React, { useState } from "react";
-import beelzemonCards from "../beelzemonCards.json";
+import { beelzemonCards } from "../beelzemonCards";
+import DigiCard from "./DigiCard";
+import Score from "./Score";
 
 //Cards is the "game" module of our app
 
@@ -9,8 +11,10 @@ const [cards, setCards] = useState(beelzemonCards);
 const [bestScore, setBestScore] = useState(0);
 const [currentScore, setCurrentScore] = useState(0);
 const [clicked, setClicked] = useState(false);
-const [shuffledArr, setShuffledArr] = useState([]);
     
+    console.log(Array.isArray(beelzemonCards));
+    console.log(Array.isArray(cards));
+
     const handleClick = (id) => {
         shuffleArray();
         handleScore(id);
@@ -39,7 +43,7 @@ const [shuffledArr, setShuffledArr] = useState([]);
         //Shuffle array of objects
         const shuffledArray = shuffle(cards);
         //Setting 'shuffledArr' as the new state
-        setShuffledArr(shuffledArray);
+        setCards(shuffledArray);
         
     }
 
@@ -70,8 +74,8 @@ const [shuffledArr, setShuffledArr] = useState([]);
         return <DigiCard
             Clicked={clicked}
             handleClick={handleClick}
-            id={id}
-            key={id}
+            id={card.id}
+            key={card.id}
             name={card.name}
             image={card.image}
         />
@@ -79,10 +83,11 @@ const [shuffledArr, setShuffledArr] = useState([]);
 
 return(
     <div className="Cards">
-        <Score />
         {cardCollection}
     </div>
     
 );
 
 }
+
+export default Cards;

@@ -1,14 +1,9 @@
 import React, { useState } from "react";
+import Cards from "./components/Cards";
 
 const App = () => {
     
-  const [cards, setCards] = useState('');
-  const [bestScore, setBestScore] = useState(0);
-  const [currentScore, setCurrentScore] = useState(0);
-  const [clicked, setClicked] = useState(false);
-
-
-})
+  
 
   return (
     <div className="App">
