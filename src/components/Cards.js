@@ -16,9 +16,28 @@ const [shuffledArr, setShuffledArr] = useState([]);
         handleScore(id);
     }
 
+    const handleScore = id => {
+        cards.forEach(card => {
+            if (id === card.id && card.clicked === false){
+                setCards(card.clicked = true);
+                setClicked(false);
+                handleIncrement();
+            }
+            else if (id === card.id && card.clicked === true) {
+                if (currentScore > bestScore) {
+                    setBestScore(currentScore);
+                }
+                setCurrentScore(0);
+                setClicked(true);
+                cards.forEach(card => (setCards(card.clicked = false)));
+            }
+        
+        })
+    }
+
     const shuffleArray = () => {
         //Shuffle array of objects
-        const shuffledArray = shuffle(characters);
+        const shuffledArray = shuffle(cards);
         //Setting 'shuffledArr' as the new state
         setShuffledArr(shuffledArray);
         
