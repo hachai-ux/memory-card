@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.d3b2c615.chunk.css",
+    "main.js": "/memory-card/static/js/main.2e3cc97f.chunk.js",
+    "main.js.map": "/memory-card/static/js/main.2e3cc97f.chunk.js.map",
+    "runtime-main.js": "/memory-card/static/js/runtime-main.73480ed4.js",
+    "runtime-main.js.map": "/memory-card/static/js/runtime-main.73480ed4.js.map",
+    "static/js/2.9fa5b99d.chunk.js": "/memory-card/static/js/2.9fa5b99d.chunk.js",
+    "static/js/2.9fa5b99d.chunk.js.map": "/memory-card/static/js/2.9fa5b99d.chunk.js.map",
+    "index.html": "/memory-card/index.html",
+    "static/css/main.d3b2c615.chunk.css.map": "/memory-card/static/css/main.d3b2c615.chunk.css.map",
+    "static/js/2.9fa5b99d.chunk.js.LICENSE.txt": "/memory-card/static/js/2.9fa5b99d.chunk.js.LICENSE.txt",
+    "static/media/Beelzemon.1ee2124b.jpeg": "/memory-card/static/media/Beelzemon.1ee2124b.jpeg",
+    "static/media/Beelzemon2.8130d523.png": "/memory-card/static/media/Beelzemon2.8130d523.png",
+    "static/media/Beelzemon3.17bf6adb.jpeg": "/memory-card/static/media/Beelzemon3.17bf6adb.jpeg",
+    "static/media/Beelzemon4.22a5dd05.jpeg": "/memory-card/static/media/Beelzemon4.22a5dd05.jpeg",
+    "static/media/Beelzemon_2010.872f091e.jpeg": "/memory-card/static/media/Beelzemon_2010.872f091e.jpeg",
+    "static/media/Beelzemon_Blast_Mode.f3a77689.jpeg": "/memory-card/static/media/Beelzemon_Blast_Mode.f3a77689.jpeg",
+    "static/media/Beelzemon_Blast_Mode_b.a2823d15.jpeg": "/memory-card/static/media/Beelzemon_Blast_Mode_b.a2823d15.jpeg",
+    "static/media/Beelzemon_Heroes.f9c2fb55.jpeg": "/memory-card/static/media/Beelzemon_Heroes.f9c2fb55.jpeg",
+    "static/media/Beelzemon_X.0104b7a4.jpeg": "/memory-card/static/media/Beelzemon_X.0104b7a4.jpeg",
+    "static/media/Beelzemon_collectors.a0e04a73.png": "/memory-card/static/media/Beelzemon_collectors.a0e04a73.png",
+    "static/media/Beelzemon_collectors2.93816d9d.png": "/memory-card/static/media/Beelzemon_collectors2.93816d9d.png",
+    "static/media/Beelzemon_collectors3.c96a93a3.png": "/memory-card/static/media/Beelzemon_collectors3.c96a93a3.png",
+    "static/media/Beelzemon_re.9195bb82.jpeg": "/memory-card/static/media/Beelzemon_re.9195bb82.jpeg",
+    "static/media/Beelzemon_vs_Avengekidmon_Heroes.16045b0b.jpeg": "/memory-card/static/media/Beelzemon_vs_Avengekidmon_Heroes.16045b0b.jpeg",
+    "static/media/Behemoth2.9558ff1b.jpeg": "/memory-card/static/media/Behemoth2.9558ff1b.jpeg",
+    "static/media/Bellestarrmon.a19f6f9f.jpeg": "/memory-card/static/media/Bellestarrmon.a19f6f9f.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73480ed4.js",
+    "static/js/2.9fa5b99d.chunk.js",
+    "static/css/main.d3b2c615.chunk.css",
+    "static/js/main.2e3cc97f.chunk.js"
+  ]
+}
