@@ -91,10 +91,12 @@ const [clicked, setClicked] = useState(false);
     });
 
 return(
-    <div className="Cards">
+    <div className="cards">
         <h1>Get points by clicking on an image but don't click on any more than once!</h1>
         <Score currentScore={currentScore} bestScore={bestScore}/>
-        {cardCollection}
+        <div className="wrapper">
+            {cardCollection}
+        </div>
     </div>
     
 );
