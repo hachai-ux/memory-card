@@ -1,6 +1,6 @@
 import beelzemonBladeModeB from "./images/Beelzemon_Blast_Mode_b.jpeg";
 import beelzemonBlastMode from "./images/Beelzemon_Blast_Mode.jpeg";
-import beelzemonHeroes from "./images/Beelzemon_Heroes%21.jpeg";
+import beelzemonHeroes from "./images/Beelzemon_Heroes.jpeg";
 import beelzemon from "./images/Beelzemon.jpeg";
 import beelzemon3 from "./images/Beelzemon3.jpeg";
 import beelzemon4 from "./images/Beelzemon4.jpeg";
